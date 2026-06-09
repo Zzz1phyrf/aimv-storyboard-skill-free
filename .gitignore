@@ -1,0 +1,23 @@
+# Secrets
+.env
+*.key
+*.pem
+
+# Generated media
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Archives and temporary files
+*.zip
+*.7z
+*.rar
+__pycache__/
+.DS_Store
+Thumbs.db
+
