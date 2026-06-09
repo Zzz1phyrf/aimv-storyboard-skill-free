@@ -1,12 +1,12 @@
-# AIMV Storyboard Skill Public Baseline
+# AIMV Storyboard Skill
 
-AI 视频 / MV 分镜脚本生成器当前免费分享版。
+AI 视频 / MV 分镜脚本生成器。
 
-这个仓库保存当前可公开分享的最新迭代版 skill。它不是最早那个简化版，而是已经升级到 GPT Image 2 优先工作流的公开基线版本。
+这个 skill 用于把歌词、LRC、歌曲时长或主题设定转成可执行的 MV 分镜方案，输出资产图、故事板、分镜执行表和视频制作清单。
 
 ## 内容
 
-- `SKILL.md`：当前公开分享版 skill 主文件
+- `SKILL.md`：skill 主文件
 - `references/storyboard-guide.md`：分镜与镜头语言参考
 - `references/prompt-engineering.md`：Prompt 写作参考
 
@@ -25,7 +25,3 @@ AI 视频 / MV 分镜脚本生成器当前免费分享版。
 ```text
 帮我根据这首歌生成一个 MV 分镜脚本
 ```
-
-## 说明
-
-这是当前免费分享基线版。后续继续增强的商业化能力会优先在私有仓库中迭代，不会自动同步到本仓库。
